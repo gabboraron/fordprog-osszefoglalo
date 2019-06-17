@@ -1,4 +1,12 @@
 # Összefoglaló
+**Tartalom**
+- [Mintanyelv](https://github.com/gabboraron/fordprog-osszefoglalo#mintanyelv---a-beadandóhoz-használandó-programozási-nyelv-leírása-while-2019-tavasz)
+- [1-lexikális](https://github.com/gabboraron/fordprog-osszefoglalo#1---lexikális)
+- [2-szintaktikai](https://github.com/gabboraron/fordprog-osszefoglalo#2---szintaktikai)
+- [3-szemantikus](https://github.com/gabboraron/fordprog-osszefoglalo#3---szemantikus)
+- [4-kódgenerátor](https://github.com/gabboraron/fordprog-osszefoglalo#4---kódgenerátor)
+
+---
 ## Mintanyelv - A beadandóhoz használandó programozási nyelv leírása (While, 2019 tavasz)
 
 A félév során az alábbi programozási nyelvhez kell fordítóprogramot írni `flex` és `bisonc++` segítségével.
