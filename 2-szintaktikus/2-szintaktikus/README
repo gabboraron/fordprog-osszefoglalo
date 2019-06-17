@@ -1,0 +1,4 @@
+futtatás: 
+- lex while.l 
+- bisonc++ while.y 
+- g++ -o teljes while.cc lex.yy.cc while.cc
