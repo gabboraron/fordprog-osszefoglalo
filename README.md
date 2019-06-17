@@ -1,2 +1,3 @@
-# fordprog-osszefoglalo
-fordító programok összefoglaló | lexikális | szintaktikus | szemantikus | kódgenerálás
+# Összefoglaló
+## 1 - lexikális
+eredeti jegyzet: [gabboraron/fordprog-1-flex](https://github.com/gabboraron/fordprog-1-flex)
