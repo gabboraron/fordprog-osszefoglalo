@@ -1,6 +1,6 @@
 futtassuk: flex while.l
-keletkezik egy lex.yy.cc fájl benne C++ kóddal
+-> keletkezik egy lex.yy.cc fájl benne C++ kóddal
 fordítsuk: g++ -o flex1 lex.yy.cc
-a fordítás eredménye flex1 futtatható állomány
-futtassuk:ekkor az input.txt tartalma jelenik meg standar kimeneten: ./flex1 input.txt
+-> a fordítás eredménye flex1 futtatható állomány
+futtassuk:ekkor az input.txt (vagy más prancssori paraméter) tartalma jelenik meg standar kimeneten: ./flex1 input.txt
 
